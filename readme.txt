@@ -19,9 +19,9 @@ This plugin can display a print preview.
 2. Please be describing the `[vapp /]` short code into the content.
 
 = Shortcode parameter =
-```
+`
 [vapp modal="" blank="" text="" /]
-```
+`
 * modal ( Modal Window )
     * On = true, Off = false, Default = false
 * blank ( New window or tab )
